@@ -1,0 +1,6 @@
+build/
+
+*.vtu
+*.vtk
+*.png
+*.mp4
